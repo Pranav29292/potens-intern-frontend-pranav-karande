@@ -53,7 +53,7 @@ The application supports **English** and **Marathi**, stores complaint data loca
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/potens-intern-frontend-pranav-karande.git
+git clone https://github.com/Pranav29292/potens-intern-frontend-pranav-karande
 ```
 
 Navigate into the project
