@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-CivicConnect is a mobile-first **Progressive Web Application (PWA)** developed as part of the **Potens IT Services Frontend Internship Assessment (Q1 – Multilingual Civic-Style PWA)**.
+CivicConnect is a mobile-first **Progressive Web Application (PWA)** developed.
 
 The application enables users to report civic issues through a simple three-step workflow:
 
@@ -247,7 +247,7 @@ Electronics & Computer Engineering Student
 
 | Tool | Approximate Usage | Purpose |
 |------|-------------------|---------|
-| ChatGPT (OpenAI) | ~300 messages | React development guidance, debugging, Tailwind CSS, multilingual implementation, Web Speech API integration, Progressive Web App configuration, localStorage implementation, documentation, and code review. |
+| ChatGPT (OpenAI) | ~200 messages | React development guidance, debugging, Tailwind CSS, multilingual implementation, Web Speech API integration, Progressive Web App configuration, localStorage implementation, documentation, and code review. |
 
 ### Declaration
 
