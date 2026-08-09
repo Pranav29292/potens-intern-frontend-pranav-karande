@@ -229,12 +229,6 @@ This project improved my understanding of:
 
 ---
 
-# 🎥 Demo
-
-A short demonstration video showcasing the complete application workflow has been submitted along with this project.
-
----
-
 # 👨‍💻 Developer
 
 **Pranav Karande**
