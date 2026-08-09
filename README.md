@@ -209,6 +209,7 @@ With additional development time, I would implement:
 - Push notifications
 - Offline complaint synchronization
 - Admin dashboard
+- AI Integration
 
 ---
 
@@ -248,7 +249,4 @@ Electronics & Computer Engineering Student
 ChatGPT was used as a development assistant throughout this project. All AI-generated suggestions were reviewed, tested, modified where necessary, and integrated manually. The final implementation, debugging, testing, documentation, and project integration were completed by me.
 
 ---
-
-# 📄 License
-
-This project was developed for the **Potens IT Services Frontend Internship Assessment (2026)** and is intended solely for educational and evaluation purposes.
+If any changes required or updation required connect with me.
