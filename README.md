@@ -202,7 +202,7 @@ With additional development time, I would implement:
 
 - Backend using Node.js and Express
 - MongoDB database integration
-- User authentication
+- User authentication and Registration
 - Complaint status tracking
 - GPS location detection
 - Google Maps integration
@@ -248,5 +248,6 @@ Electronics & Computer Engineering Student
 
 ChatGPT was used as a development assistant throughout this project. All AI-generated suggestions were reviewed, tested, modified where necessary, and integrated manually. The final implementation, debugging, testing, documentation, and project integration were completed by me.
 
+Please connect with me
 ---
 If any changes required or updation required connect with me.
