@@ -227,6 +227,7 @@ This project improved my understanding of:
 - Local Storage
 - Responsive UI Design
 - Multilingual Application Development
+
 ---
 
 # 👨‍💻 Developer
